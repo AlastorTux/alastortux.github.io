@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -8,7 +9,7 @@
 <h1>Hello World</h1>
 <p>I'm hosted with GitHub Pages.</p>
 <footer>
-  <p>&#169; Alastor.tux | 2018</p>
+<?php echo "&#169; Alastor.tux | ".date ("Y")."</p>"; ?>
 </footer>
 </body>
 </html>

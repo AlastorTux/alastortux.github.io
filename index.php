@@ -9,7 +9,7 @@
 <h1>Hello World</h1>
 <p>I'm hosted with GitHub Pages.</p>
 <footer>
-<?php echo "&#169; Alastor.tux | ".date ("Y")."</p>"; ?>
+<?php echo "<p>&#169; Alastor.tux | ".date ("Y")."</p>"; ?>
 </footer>
 </body>
 </html>
